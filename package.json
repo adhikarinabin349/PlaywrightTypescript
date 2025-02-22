@@ -1,0 +1,22 @@
+{
+  "name": "playwrighttypescript",
+  "version": "1.0.0",
+  "description": "Scalable Playwright Test Repository using Typescript",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adhikarinabin349/PlaywrightTypescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adhikarinabin349/PlaywrightTypescript/issues"
+  },
+  "homepage": "https://github.com/adhikarinabin349/PlaywrightTypescript#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.5"
+  }
+}
